@@ -20,6 +20,7 @@ If applicable, add screenshots to help explain your problem.
 **Desktop (please complete the following information):**
  - OS: [e.g. Ubuntu 18.04]
  - Python3 version [e.g. Python 3.8]
+ - Any other dependencies 
 
 **Additional context**
 Add any other context about the problem here.
