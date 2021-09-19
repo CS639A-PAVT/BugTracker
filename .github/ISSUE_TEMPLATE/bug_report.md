@@ -3,7 +3,7 @@ name: Bug report
 about: Create a report to help us improve
 title: ''
 labels: bug
-assignees: skmuduli92
+assignees: skmuduli92, tgourav, pkalita595, lahiri-phdworks
 
 ---
 
